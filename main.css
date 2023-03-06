@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    
+}
+
+.img2 {
+    width: 30%;
+}
+.img3{
+    width: 30%;
+}    
+.img1{
+    width: 30%;
+}
+a{
+text-decoration: none;
+}
+
+header{
+    background-color:#FFE773;
+    padding: 50px;
+}
+
+header a {
+    margin-right: 100px;
+    color: black;
+    font-size: 20px;
+ }
+ footer  {
+    background-color:#66AA44 ;
+    padding: 30px;
+    font-size: 25px;
+ }
+.z{
+  text-align: center;
+}
